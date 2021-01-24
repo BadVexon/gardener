@@ -1,0 +1,9 @@
+{
+  "gardenmod:SimpleSeed": {
+    "NAME": "Simple Seed",
+    "FLAVOR": "What am i doing aaaaaa",
+    "DESCRIPTIONS": [
+      "At the start of each combat, Plant #b1 #yBruteroot."
+    ]
+  }
+}

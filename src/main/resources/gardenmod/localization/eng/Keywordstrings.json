@@ -1,0 +1,113 @@
+[
+  {
+    "PROPER_NAME": "Water",
+    "NAMES": [
+      "water"
+    ],
+    "DESCRIPTION": "Grow a Plant by #b1 stage."
+  },
+  {
+    "PROPER_NAME": "Bruteroot",
+    "NAMES": [
+      "bruteroot"
+    ],
+    "DESCRIPTION": "#yMatures in #b3 turns. NL #yGrow: Gain #b2 #yVigor. NL #yHarvest: Gain #b3 temporary #yStrength."
+  },
+  {
+    "PROPER_NAME": "Flameflower",
+    "NAMES": [
+      "flameflower"
+    ],
+    "DESCRIPTION": "#yMatures in #b3 turns. NL #yHarvest: Deal #b8 damage to ALL enemies."
+  },
+  {
+    "PROPER_NAME": "Storynettle",
+    "NAMES": [
+      "storynettle"
+    ],
+    "DESCRIPTION": "#yMatures in #b3 turns. NL #yGrow: Draw #b1 card. NL #yHarvest: Put a card from your discard pile into your hand."
+  },
+  {
+    "PROPER_NAME": "Whackale",
+    "NAMES": [
+      "whackale"
+    ],
+    "DESCRIPTION": "#yMatures in #b3 turns. NL #yGrow: Deal #b2 damage to ALL enemies. NL #yHarvest: Deal #b4 damage to ALL enemies."
+  },
+  {
+    "PROPER_NAME": "Rose",
+    "NAMES": [
+      "rose",
+      "roses"
+    ],
+    "DESCRIPTION": "#yMatures in #b3 turns. NL #yGrow: Gain #b1 #yThorns. NL #yHarvest: Lose all #yThorns."
+  },
+  {
+    "PROPER_NAME": "Loneshroom",
+    "NAMES": [
+      "loneshroom"
+    ],
+    "DESCRIPTION": "#yMatures in #b3 turns. NL #yGrow: Deal #b1 damage to a random enemy, increased by #b2 for each adjacent empty Plot."
+  },
+  {
+    "PROPER_NAME": "Scorched Earth",
+    "NAMES": [
+      "scorched earth",
+      "scorched_earth"
+    ],
+    "DESCRIPTION": "Cannot be planted in."
+  },
+  {
+    "PROPER_NAME": "Guardsprout",
+    "NAMES": [
+      "guardsprout",
+      "guardsprouts"
+    ],
+    "DESCRIPTION": "#yMatures in #b3 turns. NL #yGrows whenever you receive unblocked attack damage. NL #yHarvest: Gain #b4 #yBlock."
+  },
+  {
+    "PROPER_NAME": "Shroom",
+    "NAMES": [
+      "shroom",
+      "shrooms"
+    ],
+    "DESCRIPTION": "Any Plant with the word \"Shroom\" in its name."
+  },
+  {
+    "PROPER_NAME": "Sprinklesprout",
+    "NAMES": [
+      "sprinklesprout",
+      "sprinklesprouts"
+    ],
+    "DESCRIPTION": "#yMatures in #b3 turns. NL #yHarvest: #yWater all adjacent Plants."
+  },
+  {
+    "PROPER_NAME": "Coffee",
+    "NAMES": [
+      "coffee"
+    ],
+    "DESCRIPTION": "#yMatures in #b3 turns. NL #yHarvest: Gain [E] ."
+  },
+  {
+    "PROPER_NAME": "Corn",
+    "NAMES": [
+      "corn"
+    ],
+    "DESCRIPTION": "#yMatures in #b3 turns. NL #yHarvest: Deal #b2 damage to a random enemy for each adjacent #yCorn."
+  },
+  {
+    "PROPER_NAME": "Fertilize",
+    "NAMES": [
+      "fertilize",
+      "fertilized"
+    ],
+    "DESCRIPTION": "When you #yHarvest a Plant in a Fertilized Plot, trigger its #yHarvest effect twice."
+  },
+  {
+    "PROPER_NAME": "Harvest",
+    "NAMES": [
+      "harvest"
+    ],
+    "DESCRIPTION": "Consume a Plant and use its Harvest effect."
+  }
+]

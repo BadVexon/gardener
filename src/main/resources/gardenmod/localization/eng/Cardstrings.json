@@ -1,0 +1,119 @@
+{
+  "gardenmod:Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "gardenmod:Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "gardenmod:WateringCan": {
+    "NAME": "Watering Can",
+    "DESCRIPTION": "gardenmod:Water 1 Plant and all adjacent Plants."
+  },
+  "gardenmod:Flameflower": {
+    "NAME": "Flameflower",
+    "DESCRIPTION": "Plant !M! gardenmod:Flameflower."
+  },
+  "gardenmod:Storynettle": {
+    "NAME": "Storynettle",
+    "DESCRIPTION": "Plant 1 gardenmod:Storynettle."
+  },
+  "gardenmod:WateringSlam": {
+    "NAME": "Watering Slam",
+    "DESCRIPTION": "Deal !D! damage. NL gardenmod:Water 1 Plant.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL gardenmod:Water 1 Plant twice."
+  },
+  "gardenmod:Whackale": {
+    "NAME": "Whackale",
+    "DESCRIPTION": "Deal !D! damage. NL Plant 1 gardenmod:Whackale.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Plant 1 gardenmod:Whackale and gardenmod:Water it."
+  },
+  "gardenmod:Rose": {
+    "NAME": "Rose",
+    "DESCRIPTION": "Plant 1 gardenmod:Rose."
+  },
+  "gardenmod:GloveSmacks": {
+    "NAME": "Glove Smacks",
+    "DESCRIPTION": "Deal !D! damage. NL For each *Mature Plant, deal !gardensecond! damage."
+  },
+  "gardenmod:PerfectMoment": {
+    "NAME": "Perfect Moment",
+    "DESCRIPTION": "If you have no *Mature Plants, gain !B! Block."
+  },
+  "gardenmod:HasItsThorn": {
+    "NAME": "Has Its Thorn",
+    "DESCRIPTION": "Ethereal. NL Plant !M! gardenmod:Roses. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Ethereal. NL Plant !M! gardenmod:Roses."
+  },
+  "gardenmod:ByAnyOtherName": {
+    "NAME": "By Any Other Name",
+    "DESCRIPTION": "All gardenmod:Roses turn into random other Plants. NL Exhaust."
+  },
+  "gardenmod:SteadyImprovements": {
+    "NAME": "Steady Improvements",
+    "DESCRIPTION": "Gain !B! Block. NL Upgrade a card in your hand for the rest of combat."
+  },
+  "gardenmod:SickleStrike": {
+    "NAME": "Sickle Strike",
+    "DESCRIPTION": "Deal !D! damage. NL If you have at least !M! Plants in a column, apply 2 Weak."
+  },
+  "gardenmod:StuntGrowth": {
+    "NAME": "Stunt Growth",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Reset the growth of 1 Plant."
+  },
+  "gardenmod:Loneshroom": {
+    "NAME": "Loneshroom",
+    "DESCRIPTION": "Plant 1 gardenmod:Loneshroom."
+  },
+  "gardenmod:Uproot": {
+    "NAME": "Uproot",
+    "DESCRIPTION": "Deal !D! damage. NL gardenmod:Harvest 1 Plant."
+  },
+  "gardenmod:SeedBomber": {
+    "NAME": "Seed Bomber",
+    "DESCRIPTION": "Deal !D! damage. NL πTransform a random card in your hand into a copy of this."
+  },
+  "gardenmod:ExploitLand": {
+    "NAME": "Exploit Land",
+    "DESCRIPTION": "Gain !B! Block. NL Deal !D! damage. NL A random empty Plot becomes gardenmod:Scorched_Earth."
+  },
+  "gardenmod:Guardsprouts": {
+    "NAME": "Guardsprouts",
+    "DESCRIPTION": "Plant !M! gardenmod:Guardsprouts."
+  },
+  "gardenmod:ShroomBoom": {
+    "NAME": "Shroom Boom",
+    "DESCRIPTION": "Whenever you gardenmod:Harvest a gardenmod:Shroom, deal !M! damage to ALL enemies."
+  },
+  "gardenmod:Sprinklesprout": {
+    "NAME": "Sprinklesprout",
+    "DESCRIPTION": "Plant 1 gardenmod:Sprinklesprout."
+  },
+  "gardenmod:Coffee": {
+    "NAME": "Coffee",
+    "DESCRIPTION": "Plant !M! gardenmod:Coffee in random Plots."
+  },
+  "gardenmod:Popcorn": {
+    "NAME": "Popcorn",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Plant !M! gardenmod:Corn."
+  },
+  "gardenmod:TakeYourTime": {
+    "NAME": "Retire",
+    "DESCRIPTION": "Opener. NL Take an extra turn after this one. NL End your turn."
+  },
+  "gardenmod:Fertilizer": {
+    "NAME": "Fertilizer",
+    "DESCRIPTION": "gardenmod:Fertilize 1 Plot."
+  },
+  "gardenmod:RootRout": {
+    "NAME": "Root Rout",
+    "DESCRIPTION": "Deal !D! damage. NL Plant 1 gardenmod:Bruteroot in a random Plot.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Plant 1 gardenmod:Bruteroot."
+  },
+  "gardenmod:BackIntoIt": {
+    "NAME": "Yer Back Into It",
+    "DESCRIPTION": "Deal !D! damage. NL gardenmod:Water a random Plant. NL Lose 5 HP.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL gardenmod:Water 2 random Plants. NL Lose 5 HP."
+  }
+}
